@@ -96,7 +96,7 @@ export default function Home() {
             {/* Hero Section */}
             <header className="relative z-10 text-center my-8">
                 <h2 className="text-5xl font-extrabold text-blue-400 drop-shadow-lg">Welcome to Stellar Tracer!</h2>
-                <p className="text-lg text-gray-300 mt-3">Trace the orbits of tidal tail stars across space.</p>
+                <p className="text-lg text-gray-300 mt-3">Trace the orbits of tidal tail stars in open clusters.</p>
             </header>
 
             {/* Query Input Section */}
