@@ -1,0 +1,12 @@
+fastapi==0.110.0
+uvicorn==0.29.0
+pandas==2.2.1
+numpy==1.26.3
+scikit-learn==1.4.2
+matplotlib==3.8.3
+seaborn==0.13.2
+astropy==6.0.0
+astroquery==0.4.7
+galpy==1.9.2
+mpi4py==3.1.5
+python-multipart==0.0.9
