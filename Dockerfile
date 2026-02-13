@@ -1,5 +1,6 @@
 FROM python:3.10-slim
 
+# Install system dependencies for AMUSE, galpy, mpi4py
 RUN apt-get update && apt-get install -y \
     build-essential \
     gfortran \
